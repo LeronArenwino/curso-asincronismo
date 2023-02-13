@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/LeronArenwino/curso-asincronismo/issues"
   },
-  "homepage": "https://github.com/LeronArenwino/curso-asincronismo#readme"
+  "homepage": "https://github.com/LeronArenwino/curso-asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
